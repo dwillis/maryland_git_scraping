@@ -101,6 +101,5 @@ def phonebook():
         csvfile.writerows(listings)
 
 if __name__ == "__main__":
-    absentee_ballots()
     ola_reports()
     phonebook()
