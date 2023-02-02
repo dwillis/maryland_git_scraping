@@ -4,6 +4,14 @@ import itertools
 import requests
 from bs4 import BeautifulSoup
 
+def absentee_ballots():
+    today = datetime.date.today()
+    date_string = today.strftime("%Y%m%d")
+    url = "https://elections.maryland.gov/press_room/2022_stats/GG22/Absentees%20Sent%20and%20Returned%20by%20County.xlsx"
+    response = requests.get(url)
+    with open(f"absentee/absentee_ballots_{date_string}.xlsx", 'wb') as output_file:
+        output_file.write(response.content)
+
 def ola_reports():
     url = 'https://www.ola.state.md.us/Search/Report?keyword=&agencyId=&dateFrom=&dateTo='
     response = requests.get(url, headers={'User-Agent': 'Mozilla/5.0'})
@@ -87,7 +95,7 @@ def phonebook():
                     else:
                         record.append(cell.text.strip())
                 listings.append(record)
-    with open(f"directory_{date_string}.csv", "w") as output_file:
+    with open(f"directory/directory_{date_string}.csv", "w") as output_file:
         csvfile = csv.writer(output_file)
         csvfile.writerow(['oid', 'agency', 'office', 'url', 'name', 'title', 'phone'])
         csvfile.writerows(listings)
