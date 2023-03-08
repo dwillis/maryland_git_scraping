@@ -95,7 +95,7 @@ def phonebook():
                     else:
                         record.append(cell.text.strip())
                 listings.append(record)
-    with open(f"directory/directory_{date_string}.csv", "w") as output_file:
+    with open(f"directory/directory.csv", "w") as output_file:
         csvfile = csv.writer(output_file)
         csvfile.writerow(['oid', 'agency', 'office', 'url', 'name', 'title', 'phone'])
         csvfile.writerows(listings)
