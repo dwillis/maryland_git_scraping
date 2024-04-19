@@ -1,0 +1,435 @@
+CATEGORY,COUNTY NAME,DISTRICT,DEM_SENT,REP SENT,OTH SENT,TOTAL SENT,DEM RECEIVED,REP RECEIVED,OTH RECEIVED,TOTAL RECEIVED
+ALL,ALLEGANY,Statewide,2160,1928,0,4088,732,746,0,1478
+ALL,ANNE ARUNDEL,Statewide,37670,15463,6180,59313,5411,2694,296,8401
+ALL,BALTIMORE CITY,Statewide,46416,2784,0,49200,5574,350,0,5924
+ALL,BALTIMORE COUNTY,Statewide,59896,17437,0,77333,9820,3220,0,13040
+ALL,CALVERT,Statewide,5153,3105,1604,9862,1333,991,266,2590
+ALL,CAROLINE,Statewide,823,653,0,1476,251,220,0,471
+ALL,CARROLL,Statewide,7701,6032,0,13733,1882,1932,0,3814
+ALL,CECIL,Statewide,3150,3057,0,6207,953,1018,0,1971
+ALL,CHARLES,Statewide,9973,2288,1665,13926,2216,696,180,3092
+ALL,DORCHESTER,Statewide,1478,734,113,2325,449,264,25,738
+ALL,FREDERICK,Statewide,16953,6637,4070,27660,2492,1306,314,4112
+ALL,GARRETT,Statewide,778,1030,0,1808,304,407,0,711
+ALL,HARFORD,Statewide,10954,7061,0,18015,2940,2351,0,5291
+ALL,HOWARD,Statewide,24964,5955,3877,34796,3589,1252,401,5242
+ALL,KENT,Statewide,1233,520,0,1753,444,231,0,675
+ALL,MONTGOMERY,Statewide,92470,14243,17265,123978,7963,1536,764,10263
+ALL,PRINCE GEORGE'S,Statewide,65419,4186,3789,73394,11369,1026,291,12686
+ALL,QUEEN ANNE'S,Statewide,2156,1613,0,3769,727,606,0,1333
+ALL,SAINT MARY'S,Statewide,4399,2830,1194,8423,1275,974,170,2419
+ALL,SOMERSET,Statewide,660,449,0,1109,232,161,0,393
+ALL,TALBOT,Statewide,2393,1212,110,3715,774,455,11,1240
+ALL,WASHINGTON,Statewide,5901,4017,1793,11711,1767,1415,269,3451
+ALL,WICOMICO,Statewide,3809,2068,0,5877,1252,851,0,2103
+ALL,WORCESTER,Statewide,2813,2016,181,5010,1019,833,44,1896
+CATEGORY,COUNTY NAME,DISTRICT,DEM_SENT,REP_SENT,OTH_SENT,TOTAL SENT,DEM RECEIVED,REP RECEIVED,OTH RECEIVED,TOTAL RECEIVED
+Civilian Overseas,ALLEGANY,Statewide,15,0,0,15,1,0,0,1
+Civilian Overseas,ANNE ARUNDEL,Statewide,307,69,41,417,11,0,1,12
+Civilian Overseas,BALTIMORE CITY,Statewide,360,48,0,408,5,0,0,5
+Civilian Overseas,BALTIMORE COUNTY,Statewide,333,62,0,395,23,8,0,31
+Civilian Overseas,CALVERT,Statewide,27,5,9,41,2,0,0,2
+Civilian Overseas,CAROLINE,Statewide,6,0,0,6,0,0,0,0
+Civilian Overseas,CARROLL,Statewide,35,14,0,49,5,1,0,6
+Civilian Overseas,CECIL,Statewide,17,7,0,24,0,0,0,0
+Civilian Overseas,CHARLES,Statewide,26,3,1,30,5,0,0,5
+Civilian Overseas,DORCHESTER,Statewide,8,3,0,11,2,0,0,2
+Civilian Overseas,FREDERICK,Statewide,122,27,13,162,11,0,0,11
+Civilian Overseas,GARRETT,Statewide,5,2,0,7,0,0,0,0
+Civilian Overseas,HARFORD,Statewide,60,20,0,80,5,2,0,7
+Civilian Overseas,HOWARD,Statewide,273,31,14,318,18,4,0,22
+Civilian Overseas,KENT,Statewide,11,1,0,12,1,0,0,1
+Civilian Overseas,MONTGOMERY,Statewide,1851,201,173,2225,50,6,5,61
+Civilian Overseas,PRINCE GEORGE'S,Statewide,301,32,17,350,23,2,0,25
+Civilian Overseas,QUEEN ANNE'S,Statewide,28,3,0,31,1,1,0,2
+Civilian Overseas,SAINT MARY'S,Statewide,29,11,3,43,0,1,0,1
+Civilian Overseas,SOMERSET,Statewide,5,0,0,5,0,0,0,0
+Civilian Overseas,TALBOT,Statewide,19,5,1,25,2,0,0,2
+Civilian Overseas,WASHINGTON,Statewide,30,4,4,38,3,1,0,4
+Civilian Overseas,WICOMICO,Statewide,28,8,0,36,3,0,0,3
+Civilian Overseas,WORCESTER,Statewide,20,2,0,22,1,1,0,2
+CATEGORY,COUNTY NAME,DISTRICT,DEM_SENT,REP_SENT,OTH_SENT,TOTAL SENT,DEM RECEIVED,REP RECEIVED,OTH RECEIVED,TOTAL RECEIVED
+Domestic Civilian,ALLEGANY,Statewide,2142,1928,0,4070,730,746,0,1476
+Domestic Civilian,ANNE ARUNDEL,Statewide,37239,15313,6090,58642,5381,2674,294,8349
+Domestic Civilian,BALTIMORE CITY,Statewide,46030,2728,0,48758,5565,350,0,5915
+Domestic Civilian,BALTIMORE COUNTY,Statewide,59526,17355,0,76881,9791,3208,0,12999
+Domestic Civilian,CALVERT,Statewide,5106,3086,1585,9777,1329,990,266,2585
+Domestic Civilian,CAROLINE,Statewide,817,647,0,1464,251,219,0,470
+Domestic Civilian,CARROLL,Statewide,7656,6009,0,13665,1877,1929,0,3806
+Domestic Civilian,CECIL,Statewide,3130,3044,0,6174,951,1015,0,1966
+Domestic Civilian,CHARLES,Statewide,9916,2267,1648,13831,2208,690,178,3076
+Domestic Civilian,DORCHESTER,Statewide,1470,731,113,2314,447,264,25,736
+Domestic Civilian,FREDERICK,Statewide,16812,6588,4036,27436,2480,1301,314,4095
+Domestic Civilian,GARRETT,Statewide,772,1026,0,1798,304,406,0,710
+Domestic Civilian,HARFORD,Statewide,10882,7019,0,17901,2931,2343,0,5274
+Domestic Civilian,HOWARD,Statewide,24642,5902,3848,34392,3569,1244,399,5212
+Domestic Civilian,KENT,Statewide,1221,519,0,1740,443,231,0,674
+Domestic Civilian,MONTGOMERY,Statewide,90520,14008,17035,121563,7907,1526,757,10190
+Domestic Civilian,PRINCE GEORGE'S,Statewide,65032,4127,3748,72907,11340,1020,291,12651
+Domestic Civilian,QUEEN ANNE'S,Statewide,2125,1607,0,3732,725,605,0,1330
+Domestic Civilian,SAINT MARY'S,Statewide,4354,2787,1175,8316,1274,969,168,2411
+Domestic Civilian,SOMERSET,Statewide,655,449,0,1104,232,161,0,393
+Domestic Civilian,TALBOT,Statewide,2373,1205,109,3687,772,454,11,1237
+Domestic Civilian,WASHINGTON,Statewide,5863,4001,1786,11650,1761,1411,269,3441
+Domestic Civilian,WICOMICO,Statewide,3779,2056,0,5835,1249,851,0,2100
+Domestic Civilian,WORCESTER,Statewide,2791,2008,181,4980,1018,832,44,1894
+CATEGORY,COUNTY NAME,DISTRICT,DEM_SENT,REP_SENT,OTH_SENT,TOTAL SENT,DEM RECEIVED,REP RECEIVED,OTH RECEIVED,TOTAL RECEIVED
+Military Overseas,ALLEGANY,Statewide,1,0,0,1,1,0,0,1
+Military Overseas,ANNE ARUNDEL,Statewide,25,12,10,47,7,0,0,7
+Military Overseas,BALTIMORE CITY,Statewide,4,2,0,6,1,0,0,1
+Military Overseas,BALTIMORE COUNTY,Statewide,6,7,0,13,0,1,0,1
+Military Overseas,CALVERT,Statewide,3,4,2,9,1,0,0,1
+Military Overseas,CAROLINE,Statewide,0,3,0,3,0,1,0,1
+Military Overseas,CARROLL,Statewide,1,4,0,5,0,2,0,2
+Military Overseas,CECIL,Statewide,1,3,0,4,1,2,0,3
+Military Overseas,CHARLES,Statewide,6,5,4,15,1,1,0,2
+Military Overseas,DORCHESTER,Statewide,0,0,0,0,0,0,0,0
+Military Overseas,FREDERICK,Statewide,2,6,6,14,0,2,0,2
+Military Overseas,GARRETT,Statewide,0,0,0,0,0,0,0,0
+Military Overseas,HARFORD,Statewide,4,6,0,10,2,1,0,3
+Military Overseas,HOWARD,Statewide,8,10,4,22,0,1,0,1
+Military Overseas,KENT,Statewide,0,0,0,0,0,0,0,0
+Military Overseas,MONTGOMERY,Statewide,19,3,12,34,0,0,1,1
+Military Overseas,PRINCE GEORGE'S,Statewide,14,4,2,20,1,0,0,1
+Military Overseas,QUEEN ANNE'S,Statewide,0,2,0,2,0,0,0,0
+Military Overseas,SAINT MARY'S,Statewide,3,3,4,10,0,0,0,0
+Military Overseas,SOMERSET,Statewide,0,0,0,0,0,0,0,0
+Military Overseas,TALBOT,Statewide,0,1,0,1,0,0,0,0
+Military Overseas,WASHINGTON,Statewide,1,3,2,6,0,1,0,1
+Military Overseas,WICOMICO,Statewide,1,3,0,4,0,0,0,0
+Military Overseas,WORCESTER,Statewide,1,2,0,3,0,0,0,0
+CATEGORY,COUNTY NAME,DISTRICT,DEM_SENT,REP_SENT,OTH_SENT,TOTAL SENT,DEM RECEIVED,REP RECEIVED,OTH RECEIVED,TOTAL RECEIVED
+Military US,ALLEGANY,Statewide,2,0,0,2,0,0,0,0
+Military US,ANNE ARUNDEL,Statewide,99,69,39,207,12,20,1,33
+Military US,BALTIMORE CITY,Statewide,22,6,0,28,3,0,0,3
+Military US,BALTIMORE COUNTY,Statewide,31,13,0,44,6,3,0,9
+Military US,CALVERT,Statewide,17,10,8,35,1,1,0,2
+Military US,CAROLINE,Statewide,0,3,0,3,0,0,0,0
+Military US,CARROLL,Statewide,9,5,0,14,0,0,0,0
+Military US,CECIL,Statewide,2,3,0,5,1,1,0,2
+Military US,CHARLES,Statewide,25,13,12,50,2,5,2,9
+Military US,DORCHESTER,Statewide,0,0,0,0,0,0,0,0
+Military US,FREDERICK,Statewide,17,16,15,48,1,3,0,4
+Military US,GARRETT,Statewide,1,2,0,3,0,1,0,1
+Military US,HARFORD,Statewide,8,16,0,24,2,5,0,7
+Military US,HOWARD,Statewide,41,12,11,64,2,3,2,7
+Military US,KENT,Statewide,1,0,0,1,0,0,0,0
+Military US,MONTGOMERY,Statewide,80,31,45,156,6,4,1,11
+Military US,PRINCE GEORGE'S,Statewide,72,23,22,117,5,4,0,9
+Military US,QUEEN ANNE'S,Statewide,3,1,0,4,1,0,0,1
+Military US,SAINT MARY'S,Statewide,13,29,12,54,1,4,2,7
+Military US,SOMERSET,Statewide,0,0,0,0,0,0,0,0
+Military US,TALBOT,Statewide,1,1,0,2,0,1,0,1
+Military US,WASHINGTON,Statewide,7,9,1,17,3,2,0,5
+Military US,WICOMICO,Statewide,1,1,0,2,0,0,0,0
+Military US,WORCESTER,Statewide,1,4,0,5,0,0,0,0
+CATEGORY,COUNTY NAME,DISTRICT,,,,,,REP RECEIVED,,
+Civilian Overseas,ANNE ARUNDEL,Councilmanic District Code 001,,,,,,0,,
+Civilian Overseas,ANNE ARUNDEL,Councilmanic District Code 002,,,,,,0,,
+Civilian Overseas,ANNE ARUNDEL,Councilmanic District Code 003,,,,,,0,,
+Civilian Overseas,ANNE ARUNDEL,Councilmanic District Code 004,,,,,,0,,
+Civilian Overseas,ANNE ARUNDEL,Councilmanic District Code 005,,,,,,0,,
+Civilian Overseas,ANNE ARUNDEL,Councilmanic District Code 006,,,,,,0,,
+Civilian Overseas,ANNE ARUNDEL,Councilmanic District Code 007,,,,,,0,,
+Civilian Overseas,BALTIMORE CITY,Councilmanic District Code 001,,,,,,0,,
+Civilian Overseas,BALTIMORE CITY,Councilmanic District Code 002,,,,,,0,,
+Civilian Overseas,BALTIMORE CITY,Councilmanic District Code 003,,,,,,0,,
+Civilian Overseas,BALTIMORE CITY,Councilmanic District Code 004,,,,,,0,,
+Civilian Overseas,BALTIMORE CITY,Councilmanic District Code 005,,,,,,0,,
+Civilian Overseas,BALTIMORE CITY,Councilmanic District Code 006,,,,,,0,,
+Civilian Overseas,BALTIMORE CITY,Councilmanic District Code 007,,,,,,0,,
+Civilian Overseas,BALTIMORE CITY,Councilmanic District Code 008,,,,,,0,,
+Civilian Overseas,BALTIMORE CITY,Councilmanic District Code 009,,,,,,0,,
+Civilian Overseas,BALTIMORE CITY,Councilmanic District Code 010,,,,,,0,,
+Civilian Overseas,BALTIMORE CITY,Councilmanic District Code 011,,,,,,0,,
+Civilian Overseas,BALTIMORE CITY,Councilmanic District Code 012,,,,,,0,,
+Civilian Overseas,BALTIMORE CITY,Councilmanic District Code 013,,,,,,0,,
+Civilian Overseas,BALTIMORE CITY,Councilmanic District Code 014,,,,,,0,,
+Civilian Overseas,BALTIMORE COUNTY,Councilmanic District Code 001,,,,,,0,,
+Civilian Overseas,BALTIMORE COUNTY,Councilmanic District Code 002,,,,,,3,,
+Civilian Overseas,BALTIMORE COUNTY,Councilmanic District Code 003,,,,,,1,,
+Civilian Overseas,BALTIMORE COUNTY,Councilmanic District Code 004,,,,,,1,,
+Civilian Overseas,BALTIMORE COUNTY,Councilmanic District Code 005,,,,,,1,,
+Civilian Overseas,BALTIMORE COUNTY,Councilmanic District Code 006,,,,,,1,,
+Civilian Overseas,BALTIMORE COUNTY,Councilmanic District Code 007,,,,,,1,,
+Civilian Overseas,CECIL,Councilmanic District Code 001,,,,,,0,,
+Civilian Overseas,CECIL,Councilmanic District Code 002,,,,,,0,,
+Civilian Overseas,CECIL,Councilmanic District Code 003,,,,,,0,,
+Civilian Overseas,CECIL,Councilmanic District Code 004,,,,,,0,,
+Civilian Overseas,CECIL,Councilmanic District Code 005,,,,,,0,,
+Civilian Overseas,DORCHESTER,Councilmanic District Code 001,,,,,,0,,
+Civilian Overseas,DORCHESTER,Councilmanic District Code 002,,,,,,0,,
+Civilian Overseas,DORCHESTER,Councilmanic District Code 003,,,,,,0,,
+Civilian Overseas,DORCHESTER,Councilmanic District Code 004,,,,,,0,,
+Civilian Overseas,DORCHESTER,Councilmanic District Code 005,,,,,,0,,
+Civilian Overseas,FREDERICK,Councilmanic District Code 001,,,,,,0,,
+Civilian Overseas,FREDERICK,Councilmanic District Code 002,,,,,,0,,
+Civilian Overseas,FREDERICK,Councilmanic District Code 003,,,,,,0,,
+Civilian Overseas,FREDERICK,Councilmanic District Code 004,,,,,,0,,
+Civilian Overseas,FREDERICK,Councilmanic District Code 005,,,,,,0,,
+Civilian Overseas,HARFORD,Councilmanic District Code A,,,,,,0,,
+Civilian Overseas,HARFORD,Councilmanic District Code B,,,,,,0,,
+Civilian Overseas,HARFORD,Councilmanic District Code C,,,,,,0,,
+Civilian Overseas,HARFORD,Councilmanic District Code D,,,,,,2,,
+Civilian Overseas,HARFORD,Councilmanic District Code E,,,,,,0,,
+Civilian Overseas,HARFORD,Councilmanic District Code F,,,,,,0,,
+Civilian Overseas,HOWARD,Councilmanic District Code 001,,,,,,0,,
+Civilian Overseas,HOWARD,Councilmanic District Code 002,,,,,,1,,
+Civilian Overseas,HOWARD,Councilmanic District Code 003,,,,,,2,,
+Civilian Overseas,HOWARD,Councilmanic District Code 004,,,,,,1,,
+Civilian Overseas,HOWARD,Councilmanic District Code 005,,,,,,0,,
+Civilian Overseas,MONTGOMERY,Councilmanic District Code 001,,,,,,1,,
+Civilian Overseas,MONTGOMERY,Councilmanic District Code 002,,,,,,0,,
+Civilian Overseas,MONTGOMERY,Councilmanic District Code 003,,,,,,1,,
+Civilian Overseas,MONTGOMERY,Councilmanic District Code 004,,,,,,2,,
+Civilian Overseas,MONTGOMERY,Councilmanic District Code 005,,,,,,0,,
+Civilian Overseas,MONTGOMERY,Councilmanic District Code 006,,,,,,1,,
+Civilian Overseas,MONTGOMERY,Councilmanic District Code 007,,,,,,1,,
+Civilian Overseas,PRINCE GEORGE'S,Councilmanic District Code 001,,,,,,2,,
+Civilian Overseas,PRINCE GEORGE'S,Councilmanic District Code 002,,,,,,0,,
+Civilian Overseas,PRINCE GEORGE'S,Councilmanic District Code 003,,,,,,0,,
+Civilian Overseas,PRINCE GEORGE'S,Councilmanic District Code 004,,,,,,0,,
+Civilian Overseas,PRINCE GEORGE'S,Councilmanic District Code 005,,,,,,0,,
+Civilian Overseas,PRINCE GEORGE'S,Councilmanic District Code 006,,,,,,0,,
+Civilian Overseas,PRINCE GEORGE'S,Councilmanic District Code 007,,,,,,0,,
+Civilian Overseas,PRINCE GEORGE'S,Councilmanic District Code 008,,,,,,0,,
+Civilian Overseas,PRINCE GEORGE'S,Councilmanic District Code 009,,,,,,0,,
+Civilian Overseas,TALBOT,Councilmanic District Code 000,,,,,,0,,
+Civilian Overseas,WICOMICO,Councilmanic District Code 001,,,,,,0,,
+Civilian Overseas,WICOMICO,Councilmanic District Code 002,,,,,,0,,
+Civilian Overseas,WICOMICO,Councilmanic District Code 003,,,,,,0,,
+Civilian Overseas,WICOMICO,Councilmanic District Code 004,,,,,,0,,
+Civilian Overseas,WICOMICO,Councilmanic District Code 005,,,,,,0,,
+Civilian Overseas Total,,,,,,,,22,,
+Domestic Civilian,ANNE ARUNDEL,Councilmanic District Code 001,,,,,,218,,
+Domestic Civilian,ANNE ARUNDEL,Councilmanic District Code 002,,,,,,282,,
+Domestic Civilian,ANNE ARUNDEL,Councilmanic District Code 003,,,,,,382,,
+Domestic Civilian,ANNE ARUNDEL,Councilmanic District Code 004,,,,,,265,,
+Domestic Civilian,ANNE ARUNDEL,Councilmanic District Code 005,,,,,,479,,
+Domestic Civilian,ANNE ARUNDEL,Councilmanic District Code 006,,,,,,540,,
+Domestic Civilian,ANNE ARUNDEL,Councilmanic District Code 007,,,,,,508,,
+Domestic Civilian,BALTIMORE CITY,Councilmanic District Code 001,,,,,,31,,
+Domestic Civilian,BALTIMORE CITY,Councilmanic District Code 002,,,,,,20,,
+Domestic Civilian,BALTIMORE CITY,Councilmanic District Code 003,,,,,,31,,
+Domestic Civilian,BALTIMORE CITY,Councilmanic District Code 004,,,,,,31,,
+Domestic Civilian,BALTIMORE CITY,Councilmanic District Code 005,,,,,,48,,
+Domestic Civilian,BALTIMORE CITY,Councilmanic District Code 006,,,,,,13,,
+Domestic Civilian,BALTIMORE CITY,Councilmanic District Code 007,,,,,,17,,
+Domestic Civilian,BALTIMORE CITY,Councilmanic District Code 008,,,,,,13,,
+Domestic Civilian,BALTIMORE CITY,Councilmanic District Code 009,,,,,,22,,
+Domestic Civilian,BALTIMORE CITY,Councilmanic District Code 010,,,,,,22,,
+Domestic Civilian,BALTIMORE CITY,Councilmanic District Code 011,,,,,,46,,
+Domestic Civilian,BALTIMORE CITY,Councilmanic District Code 012,,,,,,14,,
+Domestic Civilian,BALTIMORE CITY,Councilmanic District Code 013,,,,,,20,,
+Domestic Civilian,BALTIMORE CITY,Councilmanic District Code 014,,,,,,22,,
+Domestic Civilian,BALTIMORE COUNTY,Councilmanic District Code 001,,,,,,339,,
+Domestic Civilian,BALTIMORE COUNTY,Councilmanic District Code 002,,,,,,397,,
+Domestic Civilian,BALTIMORE COUNTY,Councilmanic District Code 003,,,,,,890,,
+Domestic Civilian,BALTIMORE COUNTY,Councilmanic District Code 004,,,,,,218,,
+Domestic Civilian,BALTIMORE COUNTY,Councilmanic District Code 005,,,,,,651,,
+Domestic Civilian,BALTIMORE COUNTY,Councilmanic District Code 006,,,,,,394,,
+Domestic Civilian,BALTIMORE COUNTY,Councilmanic District Code 007,,,,,,319,,
+Domestic Civilian,CECIL,Councilmanic District Code 001,,,,,,177,,
+Domestic Civilian,CECIL,Councilmanic District Code 002,,,,,,136,,
+Domestic Civilian,CECIL,Councilmanic District Code 003,,,,,,223,,
+Domestic Civilian,CECIL,Councilmanic District Code 004,,,,,,216,,
+Domestic Civilian,CECIL,Councilmanic District Code 005,,,,,,263,,
+Domestic Civilian,DORCHESTER,Councilmanic District Code 001,,,,,,60,,
+Domestic Civilian,DORCHESTER,Councilmanic District Code 002,,,,,,15,,
+Domestic Civilian,DORCHESTER,Councilmanic District Code 003,,,,,,71,,
+Domestic Civilian,DORCHESTER,Councilmanic District Code 004,,,,,,72,,
+Domestic Civilian,DORCHESTER,Councilmanic District Code 005,,,,,,46,,
+Domestic Civilian,FREDERICK,Councilmanic District Code 001,,,,,,299,,
+Domestic Civilian,FREDERICK,Councilmanic District Code 002,,,,,,244,,
+Domestic Civilian,FREDERICK,Councilmanic District Code 003,,,,,,235,,
+Domestic Civilian,FREDERICK,Councilmanic District Code 004,,,,,,260,,
+Domestic Civilian,FREDERICK,Councilmanic District Code 005,,,,,,263,,
+Domestic Civilian,HARFORD,Councilmanic District Code A,,,,,,173,,
+Domestic Civilian,HARFORD,Councilmanic District Code B,,,,,,462,,
+Domestic Civilian,HARFORD,Councilmanic District Code C,,,,,,532,,
+Domestic Civilian,HARFORD,Councilmanic District Code D,,,,,,466,,
+Domestic Civilian,HARFORD,Councilmanic District Code E,,,,,,352,,
+Domestic Civilian,HARFORD,Councilmanic District Code F,,,,,,358,,
+Domestic Civilian,HOWARD,Councilmanic District Code 001,,,,,,253,,
+Domestic Civilian,HOWARD,Councilmanic District Code 002,,,,,,199,,
+Domestic Civilian,HOWARD,Councilmanic District Code 003,,,,,,157,,
+Domestic Civilian,HOWARD,Councilmanic District Code 004,,,,,,225,,
+Domestic Civilian,HOWARD,Councilmanic District Code 005,,,,,,410,,
+Domestic Civilian,MONTGOMERY,Councilmanic District Code 001,,,,,,299,,
+Domestic Civilian,MONTGOMERY,Councilmanic District Code 002,,,,,,201,,
+Domestic Civilian,MONTGOMERY,Councilmanic District Code 003,,,,,,231,,
+Domestic Civilian,MONTGOMERY,Councilmanic District Code 004,,,,,,168,,
+Domestic Civilian,MONTGOMERY,Councilmanic District Code 005,,,,,,211,,
+Domestic Civilian,MONTGOMERY,Councilmanic District Code 006,,,,,,165,,
+Domestic Civilian,MONTGOMERY,Councilmanic District Code 007,,,,,,251,,
+Domestic Civilian,PRINCE GEORGE'S,Councilmanic District Code 001,,,,,,168,,
+Domestic Civilian,PRINCE GEORGE'S,Councilmanic District Code 002,,,,,,72,,
+Domestic Civilian,PRINCE GEORGE'S,Councilmanic District Code 003,,,,,,94,,
+Domestic Civilian,PRINCE GEORGE'S,Councilmanic District Code 004,,,,,,263,,
+Domestic Civilian,PRINCE GEORGE'S,Councilmanic District Code 005,,,,,,60,,
+Domestic Civilian,PRINCE GEORGE'S,Councilmanic District Code 006,,,,,,66,,
+Domestic Civilian,PRINCE GEORGE'S,Councilmanic District Code 007,,,,,,30,,
+Domestic Civilian,PRINCE GEORGE'S,Councilmanic District Code 008,,,,,,107,,
+Domestic Civilian,PRINCE GEORGE'S,Councilmanic District Code 009,,,,,,160,,
+Domestic Civilian,TALBOT,Councilmanic District Code 000,,,,,,454,,
+Domestic Civilian,WICOMICO,Councilmanic District Code 001,,,,,,72,,
+Domestic Civilian,WICOMICO,Councilmanic District Code 002,,,,,,244,,
+Domestic Civilian,WICOMICO,Councilmanic District Code 003,,,,,,234,,
+Domestic Civilian,WICOMICO,Councilmanic District Code 004,,,,,,131,,
+Domestic Civilian,WICOMICO,Councilmanic District Code 005,,,,,,170,,
+Domestic Civilian Total,,,,,,,,16250,,
+Military Overseas,ANNE ARUNDEL,Councilmanic District Code 001,,,,,,0,,
+Military Overseas,ANNE ARUNDEL,Councilmanic District Code 002,,,,,,0,,
+Military Overseas,ANNE ARUNDEL,Councilmanic District Code 003,,,,,,0,,
+Military Overseas,ANNE ARUNDEL,Councilmanic District Code 004,,,,,,0,,
+Military Overseas,ANNE ARUNDEL,Councilmanic District Code 005,,,,,,0,,
+Military Overseas,ANNE ARUNDEL,Councilmanic District Code 006,,,,,,0,,
+Military Overseas,ANNE ARUNDEL,Councilmanic District Code 007,,,,,,0,,
+Military Overseas,BALTIMORE CITY,Councilmanic District Code 001,,,,,,0,,
+Military Overseas,BALTIMORE CITY,Councilmanic District Code 002,,,,,,0,,
+Military Overseas,BALTIMORE CITY,Councilmanic District Code 003,,,,,,0,,
+Military Overseas,BALTIMORE CITY,Councilmanic District Code 004,,,,,,0,,
+Military Overseas,BALTIMORE CITY,Councilmanic District Code 005,,,,,,0,,
+Military Overseas,BALTIMORE CITY,Councilmanic District Code 006,,,,,,0,,
+Military Overseas,BALTIMORE CITY,Councilmanic District Code 007,,,,,,0,,
+Military Overseas,BALTIMORE CITY,Councilmanic District Code 008,,,,,,0,,
+Military Overseas,BALTIMORE CITY,Councilmanic District Code 009,,,,,,0,,
+Military Overseas,BALTIMORE CITY,Councilmanic District Code 010,,,,,,0,,
+Military Overseas,BALTIMORE CITY,Councilmanic District Code 011,,,,,,0,,
+Military Overseas,BALTIMORE CITY,Councilmanic District Code 012,,,,,,0,,
+Military Overseas,BALTIMORE CITY,Councilmanic District Code 013,,,,,,0,,
+Military Overseas,BALTIMORE CITY,Councilmanic District Code 014,,,,,,0,,
+Military Overseas,BALTIMORE COUNTY,Councilmanic District Code 001,,,,,,0,,
+Military Overseas,BALTIMORE COUNTY,Councilmanic District Code 002,,,,,,0,,
+Military Overseas,BALTIMORE COUNTY,Councilmanic District Code 003,,,,,,1,,
+Military Overseas,BALTIMORE COUNTY,Councilmanic District Code 004,,,,,,0,,
+Military Overseas,BALTIMORE COUNTY,Councilmanic District Code 005,,,,,,0,,
+Military Overseas,BALTIMORE COUNTY,Councilmanic District Code 006,,,,,,0,,
+Military Overseas,BALTIMORE COUNTY,Councilmanic District Code 007,,,,,,0,,
+Military Overseas,CECIL,Councilmanic District Code 001,,,,,,2,,
+Military Overseas,CECIL,Councilmanic District Code 002,,,,,,0,,
+Military Overseas,CECIL,Councilmanic District Code 003,,,,,,0,,
+Military Overseas,CECIL,Councilmanic District Code 004,,,,,,0,,
+Military Overseas,CECIL,Councilmanic District Code 005,,,,,,0,,
+Military Overseas,DORCHESTER,Councilmanic District Code 001,,,,,,0,,
+Military Overseas,DORCHESTER,Councilmanic District Code 002,,,,,,0,,
+Military Overseas,DORCHESTER,Councilmanic District Code 003,,,,,,0,,
+Military Overseas,DORCHESTER,Councilmanic District Code 004,,,,,,0,,
+Military Overseas,DORCHESTER,Councilmanic District Code 005,,,,,,0,,
+Military Overseas,FREDERICK,Councilmanic District Code 001,,,,,,1,,
+Military Overseas,FREDERICK,Councilmanic District Code 002,,,,,,0,,
+Military Overseas,FREDERICK,Councilmanic District Code 003,,,,,,0,,
+Military Overseas,FREDERICK,Councilmanic District Code 004,,,,,,0,,
+Military Overseas,FREDERICK,Councilmanic District Code 005,,,,,,1,,
+Military Overseas,HARFORD,Councilmanic District Code A,,,,,,0,,
+Military Overseas,HARFORD,Councilmanic District Code B,,,,,,0,,
+Military Overseas,HARFORD,Councilmanic District Code C,,,,,,0,,
+Military Overseas,HARFORD,Councilmanic District Code D,,,,,,0,,
+Military Overseas,HARFORD,Councilmanic District Code E,,,,,,0,,
+Military Overseas,HARFORD,Councilmanic District Code F,,,,,,1,,
+Military Overseas,HOWARD,Councilmanic District Code 001,,,,,,0,,
+Military Overseas,HOWARD,Councilmanic District Code 002,,,,,,0,,
+Military Overseas,HOWARD,Councilmanic District Code 003,,,,,,0,,
+Military Overseas,HOWARD,Councilmanic District Code 004,,,,,,0,,
+Military Overseas,HOWARD,Councilmanic District Code 005,,,,,,1,,
+Military Overseas,MONTGOMERY,Councilmanic District Code 001,,,,,,0,,
+Military Overseas,MONTGOMERY,Councilmanic District Code 002,,,,,,0,,
+Military Overseas,MONTGOMERY,Councilmanic District Code 003,,,,,,0,,
+Military Overseas,MONTGOMERY,Councilmanic District Code 004,,,,,,0,,
+Military Overseas,MONTGOMERY,Councilmanic District Code 005,,,,,,0,,
+Military Overseas,MONTGOMERY,Councilmanic District Code 006,,,,,,0,,
+Military Overseas,MONTGOMERY,Councilmanic District Code 007,,,,,,0,,
+Military Overseas,PRINCE GEORGE'S,Councilmanic District Code 001,,,,,,0,,
+Military Overseas,PRINCE GEORGE'S,Councilmanic District Code 002,,,,,,0,,
+Military Overseas,PRINCE GEORGE'S,Councilmanic District Code 003,,,,,,0,,
+Military Overseas,PRINCE GEORGE'S,Councilmanic District Code 004,,,,,,0,,
+Military Overseas,PRINCE GEORGE'S,Councilmanic District Code 005,,,,,,0,,
+Military Overseas,PRINCE GEORGE'S,Councilmanic District Code 006,,,,,,0,,
+Military Overseas,PRINCE GEORGE'S,Councilmanic District Code 007,,,,,,0,,
+Military Overseas,PRINCE GEORGE'S,Councilmanic District Code 008,,,,,,0,,
+Military Overseas,PRINCE GEORGE'S,Councilmanic District Code 009,,,,,,0,,
+Military Overseas,TALBOT,Councilmanic District Code 000,,,,,,0,,
+Military Overseas,WICOMICO,Councilmanic District Code 001,,,,,,0,,
+Military Overseas,WICOMICO,Councilmanic District Code 002,,,,,,0,,
+Military Overseas,WICOMICO,Councilmanic District Code 003,,,,,,0,,
+Military Overseas,WICOMICO,Councilmanic District Code 004,,,,,,0,,
+Military Overseas,WICOMICO,Councilmanic District Code 005,,,,,,0,,
+Military Overseas Total,,,,,,,,7,,
+Military US,ANNE ARUNDEL,Councilmanic District Code 001,,,,,,3,,
+Military US,ANNE ARUNDEL,Councilmanic District Code 002,,,,,,4,,
+Military US,ANNE ARUNDEL,Councilmanic District Code 003,,,,,,0,,
+Military US,ANNE ARUNDEL,Councilmanic District Code 004,,,,,,2,,
+Military US,ANNE ARUNDEL,Councilmanic District Code 005,,,,,,7,,
+Military US,ANNE ARUNDEL,Councilmanic District Code 006,,,,,,1,,
+Military US,ANNE ARUNDEL,Councilmanic District Code 007,,,,,,3,,
+Military US,BALTIMORE CITY,Councilmanic District Code 001,,,,,,0,,
+Military US,BALTIMORE CITY,Councilmanic District Code 002,,,,,,0,,
+Military US,BALTIMORE CITY,Councilmanic District Code 003,,,,,,0,,
+Military US,BALTIMORE CITY,Councilmanic District Code 004,,,,,,0,,
+Military US,BALTIMORE CITY,Councilmanic District Code 005,,,,,,0,,
+Military US,BALTIMORE CITY,Councilmanic District Code 006,,,,,,0,,
+Military US,BALTIMORE CITY,Councilmanic District Code 007,,,,,,0,,
+Military US,BALTIMORE CITY,Councilmanic District Code 008,,,,,,0,,
+Military US,BALTIMORE CITY,Councilmanic District Code 009,,,,,,0,,
+Military US,BALTIMORE CITY,Councilmanic District Code 010,,,,,,0,,
+Military US,BALTIMORE CITY,Councilmanic District Code 011,,,,,,0,,
+Military US,BALTIMORE CITY,Councilmanic District Code 012,,,,,,0,,
+Military US,BALTIMORE CITY,Councilmanic District Code 013,,,,,,0,,
+Military US,BALTIMORE CITY,Councilmanic District Code 014,,,,,,0,,
+Military US,BALTIMORE COUNTY,Councilmanic District Code 001,,,,,,0,,
+Military US,BALTIMORE COUNTY,Councilmanic District Code 002,,,,,,0,,
+Military US,BALTIMORE COUNTY,Councilmanic District Code 003,,,,,,2,,
+Military US,BALTIMORE COUNTY,Councilmanic District Code 004,,,,,,0,,
+Military US,BALTIMORE COUNTY,Councilmanic District Code 005,,,,,,1,,
+Military US,BALTIMORE COUNTY,Councilmanic District Code 006,,,,,,0,,
+Military US,BALTIMORE COUNTY,Councilmanic District Code 007,,,,,,0,,
+Military US,CECIL,Councilmanic District Code 001,,,,,,1,,
+Military US,CECIL,Councilmanic District Code 002,,,,,,0,,
+Military US,CECIL,Councilmanic District Code 003,,,,,,0,,
+Military US,CECIL,Councilmanic District Code 004,,,,,,0,,
+Military US,CECIL,Councilmanic District Code 005,,,,,,0,,
+Military US,DORCHESTER,Councilmanic District Code 001,,,,,,0,,
+Military US,DORCHESTER,Councilmanic District Code 002,,,,,,0,,
+Military US,DORCHESTER,Councilmanic District Code 003,,,,,,0,,
+Military US,DORCHESTER,Councilmanic District Code 004,,,,,,0,,
+Military US,DORCHESTER,Councilmanic District Code 005,,,,,,0,,
+Military US,FREDERICK,Councilmanic District Code 001,,,,,,2,,
+Military US,FREDERICK,Councilmanic District Code 002,,,,,,0,,
+Military US,FREDERICK,Councilmanic District Code 003,,,,,,0,,
+Military US,FREDERICK,Councilmanic District Code 004,,,,,,0,,
+Military US,FREDERICK,Councilmanic District Code 005,,,,,,1,,
+Military US,HARFORD,Councilmanic District Code A,,,,,,0,,
+Military US,HARFORD,Councilmanic District Code B,,,,,,1,,
+Military US,HARFORD,Councilmanic District Code C,,,,,,0,,
+Military US,HARFORD,Councilmanic District Code D,,,,,,2,,
+Military US,HARFORD,Councilmanic District Code E,,,,,,1,,
+Military US,HARFORD,Councilmanic District Code F,,,,,,1,,
+Military US,HOWARD,Councilmanic District Code 001,,,,,,1,,
+Military US,HOWARD,Councilmanic District Code 002,,,,,,1,,
+Military US,HOWARD,Councilmanic District Code 003,,,,,,0,,
+Military US,HOWARD,Councilmanic District Code 004,,,,,,1,,
+Military US,HOWARD,Councilmanic District Code 005,,,,,,0,,
+Military US,MONTGOMERY,Councilmanic District Code 001,,,,,,1,,
+Military US,MONTGOMERY,Councilmanic District Code 002,,,,,,1,,
+Military US,MONTGOMERY,Councilmanic District Code 003,,,,,,1,,
+Military US,MONTGOMERY,Councilmanic District Code 004,,,,,,0,,
+Military US,MONTGOMERY,Councilmanic District Code 005,,,,,,0,,
+Military US,MONTGOMERY,Councilmanic District Code 006,,,,,,1,,
+Military US,MONTGOMERY,Councilmanic District Code 007,,,,,,0,,
+Military US,PRINCE GEORGE'S,Councilmanic District Code 001,,,,,,0,,
+Military US,PRINCE GEORGE'S,Councilmanic District Code 002,,,,,,0,,
+Military US,PRINCE GEORGE'S,Councilmanic District Code 003,,,,,,0,,
+Military US,PRINCE GEORGE'S,Councilmanic District Code 004,,,,,,1,,
+Military US,PRINCE GEORGE'S,Councilmanic District Code 005,,,,,,0,,
+Military US,PRINCE GEORGE'S,Councilmanic District Code 006,,,,,,0,,
+Military US,PRINCE GEORGE'S,Councilmanic District Code 007,,,,,,0,,
+Military US,PRINCE GEORGE'S,Councilmanic District Code 008,,,,,,3,,
+Military US,PRINCE GEORGE'S,Councilmanic District Code 009,,,,,,0,,
+Military US,TALBOT,Councilmanic District Code 000,,,,,,1,,
+Military US,WICOMICO,Councilmanic District Code 001,,,,,,0,,
+Military US,WICOMICO,Councilmanic District Code 002,,,,,,0,,
+Military US,WICOMICO,Councilmanic District Code 003,,,,,,0,,
+Military US,WICOMICO,Councilmanic District Code 004,,,,,,0,,
+Military US,WICOMICO,Councilmanic District Code 005,,,,,,0,,
+Military US Total,,,,,,,,44,,
+Grand Total,,,,,,,,16323,,
