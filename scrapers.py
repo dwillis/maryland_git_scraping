@@ -8,7 +8,7 @@ from bs4 import BeautifulSoup
 def absentee_ballots():
     today = datetime.date.today()
     date_string = today.strftime("%Y%m%d")
-    url = "https://www.elections.maryland.gov/press_room/2024_stats/Absentees%20Sent%20and%20Returned%20by%20County.xlsx"
+    url = "https://elections.maryland.gov/press_room/2024_stats/PG24/Absentees%20Sent%20and%20Returned%20by%20County.xlsx"
     response = requests.get(url)
     with open(f"absentee/absentee_ballots_{date_string}.xlsx", 'wb') as output_file:
         output_file.write(response.content)
