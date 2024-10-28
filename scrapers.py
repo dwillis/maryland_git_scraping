@@ -41,7 +41,7 @@ def process_ballots(date=datetime.date.today()):
     data = data[~data['CATEGORY'].isna()]
 
     # Drop rows where the first column value is 'CATEGORY' or the second column value is 'Total'
-    #data = data[~((data['CATEGORY'] == 'CATEGORY') | (data.iloc[:, 1] == 'Total'))]
+    data = data[~((data['CATEGORY'] == 'CATEGORY') | (data.iloc[:, 0] == 'CATEGORY'))]
 
     # Save the cleaned data to CSV, ensuring no index and the correct headers are included
     filename_no_blanks_no_category = f'absentee/absentee_ballots_{date_string}.csv'
